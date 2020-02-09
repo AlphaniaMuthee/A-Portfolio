@@ -1,0 +1,27 @@
+body {
+  background-color: thistle;
+  font-size: 15px;
+}
+.links {
+  width: 40%;
+  float: inline-start;
+  background-color: plum;
+}
+.me h1 {
+  border: 1px;
+  margin: auto;
+  background-color: purple;
+  padding: 20px;
+  text-align: center;
+  color: plum;
+}
+h2 {
+  font-size: 27px;
+  color: Purple;
+}
+img {
+  width: 30%;
+  height: 60%;
+  float: left;
+  margin: 30px;
+}
